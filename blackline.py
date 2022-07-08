@@ -3,6 +3,8 @@ import win32api, win32con
 import time
 import keyboard
 
+
+#to print the location of the mouse
 #   print(pyautogui.position())
 #pyautogui.displayMousePosition()
 
